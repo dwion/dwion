@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **enedon/enedon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div class="tenor-gif-embed" data-postid="23055924" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hamster-meme-staring-hd-watching-gif-23055924">Hamster Meme GIF</a>from <a href="https://tenor.com/search/hamster-gifs">Hamster GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
