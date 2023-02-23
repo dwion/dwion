@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://media.tenor.com/9RCIDZjkhBsAAAAC/hamster-meme.gif"/>
+<!--  <img src="https://media.tenor.com/9RCIDZjkhBsAAAAC/hamster-meme.gif"/> -->
+<img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif"/>
